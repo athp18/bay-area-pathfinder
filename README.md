@@ -2,7 +2,6 @@
 
 to do: 
 add freeways
-<<<<<<< HEAD
 =======
 # Getting Started with Create React App
 
