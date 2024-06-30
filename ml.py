@@ -1,4 +1,5 @@
 # perform inference for a graph to add/change weights & use dijkstra's to find the locally optimum weighted path
+# basic (needs fixing) implementation
 
 import pandas as pd
 import numpy as np
