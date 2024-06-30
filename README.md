@@ -1,4 +1,4 @@
-to do: add freeways
+to do: add freeways, weights to each node on the graph
 =======
 # Getting Started with Create React App
 
