@@ -1,7 +1,4 @@
-# maps
-
-to do: 
-add freeways
+to do: add freeways
 =======
 # Getting Started with Create React App
 
