@@ -1,10 +1,10 @@
 export const cities = [
     'San Francisco', 'Oakland', 'San Jose', 'Berkeley', 'Palo Alto', 
     'Fremont', 'Sunnyvale', 'Santa Clara', 'Mountain View', 'Hayward', 'San Mateo'
-  ];
+  ]; // current nodes. TO DO: add options for users to add nodes automatically (maybe use api to automatically compute distance). this is kinda fun
   
   export const connections = [
-    { from: 'San Francisco', to: 'Oakland', distance: 12 },
+    { from: 'San Francisco', to: 'Oakland', distance: 12 }, //in miles
     { from: 'San Francisco', to: 'San Mateo', distance: 20 },
     { from: 'San Francisco', to: 'Palo Alto', distance: 34 },
     { from: 'San Francisco', to: 'Berkeley', distance: 15 },
