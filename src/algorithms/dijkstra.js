@@ -1,4 +1,4 @@
-export function dijkstra(graph, startNode) {
+export function dijkstra(graph, startNode) { //dijkstra's is the backbone here
     const distances = {};
     const visited = {};
     const previous = {};
