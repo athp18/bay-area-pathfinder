@@ -38,7 +38,8 @@ class Predict:
         test_score = self.model.score(X_test, y_test)
         print(f"Train R2 Score: {train_score:.4f}")
         print(f"Test R2 Score: {test_score:.4f}")
-    
+
+    """
     def update_graph_weights(self):
         for edge in self.graph.edges(data=True):
             node1, node2, data = edge
@@ -57,3 +58,5 @@ class Predict:
         path_length = nx.dijkstra_path_length(self.graph, start, end, weight='weight')
         
         return path, path_length
+    """
+    ### Fix this later
