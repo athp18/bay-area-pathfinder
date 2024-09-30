@@ -1,7 +1,6 @@
 Interactive visualization of transit in the Bay Area that uses Dijkstra's algorithm to calculate the shortest path between two cities. Cities are represent as nodes on a graph.
 To do:
 - use ML (maybe even an ANN) to add weights to edges depending on the time of transit
-- Add option to use freeways
 - Expand beyond Bay Area
 - change the colors
 
